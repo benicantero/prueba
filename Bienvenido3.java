@@ -12,5 +12,6 @@ public class Bienvenido3{
 		String nombreCompleto = sc.nextLine();
 		sc.close();
 		System.out.printf("Hola bienvenido %s%n", nombreCompleto);
+		System.out.println("Esto es para probar");
 	}
 }
